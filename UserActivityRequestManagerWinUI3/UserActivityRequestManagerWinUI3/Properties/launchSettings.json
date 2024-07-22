@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UserActivityRequestManagerWinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UserActivityRequestManagerWinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
